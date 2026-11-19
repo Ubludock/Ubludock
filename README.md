@@ -71,6 +71,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Ubludock/Ubludock/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/UbLudock/UbLudock/output/github-snake.svg" alt="Snake animation" />
-</div>
